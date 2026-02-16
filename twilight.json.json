@@ -1,10 +1,10 @@
 {
     "name": {
-        "ar": "ضي",
-        "en": "Daay"
+        "ar": "كِنانة",
+        "en": "Kenana"
     },
     "version": "2.0.0",
-    "version_id": "kenany-theme-v2",
+    "version_id": "kenany-theme-v3",
     "theme_id": "kenany-theme",
     "platform_version": "2.14.199",
     "repository": "https://github.com/maanicompany22/kenany",
